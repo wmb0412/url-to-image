@@ -1,7 +1,7 @@
 根据url生成网页截图
 
 ```bash
-$ yarn && yarn dev
+$ yarn && yarn start
 ```
 
 POST
